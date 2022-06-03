@@ -6,12 +6,12 @@ This week's challenge was to take existing code and refactor it in order to make
 
 The main acceptance criteria were as follow:
 - make sure to have semantic HTML elements
-- ensure that the elements follow a logical structure independent
+- ensure that the elements follow a logical structure
 - include accessible alt attributes as well as a concise, descriptive title
 - organise and consolidate CSS elements and properties 
 - deploy the page on github
 
-This homework was overall not as challenging as expected as most of the content was covered during the classes. Deploying the page was a little overwhelming as this was not practised in class.
+This homework was overall not as challenging as expected as most of the content was covered during the classes. Deploying the page was a little overwhelming as this was not practised in class. Luckily the TA showed use the steps so it made this first hands-on experience smoother.
 
 ### Link to deployed page
 
