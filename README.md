@@ -16,3 +16,9 @@ This homework was overall not as challenging as expected as most of the content 
 ### Link to deployed page
 
 https://appolinefr.github.io/HTML-CSS-Git-Challenge-Code-Refactor/
+
+
+#### Screenshot of deployed page
+
+
+![Screenshot of deployed page](assets/images/Deployed-page.png)
